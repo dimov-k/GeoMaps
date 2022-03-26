@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">GeoMaps</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">aQUn5pzztY8Ep5yFN10FkMyJPFfrN6FtzLdOGDIz</string>
+    <string name="back4app_client_key">6p7MU5xNwG4jMUveQJxCFAaPbV8rSTPvc8SxTWlU</string>
+    <string name="enter_query">Введите запрос</string>
+    <string name="search">Поиск</string>
+    <string name="markers">Маркеры</string>
+    <string name="looks_like_location_disabled">Похоже, местоположение недоступно. Проверьте настройки вашего телефона</string>
+    <string name="markers_list">Список маркеров</string>
+    <string name="save_marker">Сохранить Маркер</string>
+    <string name="cancel">Отменить</string>
+    <string name="latitude_longtitude">Широта,Долгота</string>
+    <string name="description">Описание</string>
+    <string name="reload">Обновить список маркеров?</string>
+    <string name="list_is_empty">Список Маркеров пуст</string>
 </resources>
